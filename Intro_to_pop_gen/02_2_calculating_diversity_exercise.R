@@ -31,7 +31,3 @@ s_sfs$counts
 numSamples <- dim(north)[1]
 pwSum <- 0
 
-for i in seq(numSamples) {
-  for j in 
-}
-
